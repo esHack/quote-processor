@@ -11,7 +11,7 @@ After that navigate to target folder , there should be a quote-processor.jar
 
 Run the below command
 ```sh
-java -jar quote-processor.jar [absolute path tocsv file] [loan amount required]
+java -jar quote-processor.jar [absolute path to csv file] [loan amount required]
 
 java -jar quote-processor.jar C:\Users\iames\OneDrive\Desktop\market.csv 1000
 ```
